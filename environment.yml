@@ -1,0 +1,30 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - blas
+  - ipywidgets
+  - pandas
+  - numexpr
+  - matplotlib
+  - scipy
+  - seaborn
+  - scikit-learn
+  - scikit-image
+  - sympy
+  - cython
+  - patsy
+  - statsmodels
+  - cloudpickle
+  - dill
+  - dask
+  - numba
+  - bokeh
+  - sqlalchemy
+  - hdf5
+  - h5py
+  - vincent
+  - beautifulsoup4
+  - protobuf
+  - xlrd
+  - numpy
