@@ -13,9 +13,7 @@ and notebooks to show them off.
 
 ## Running
 
- - Run in binder (but you can't save your changes): 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmaziuk/diy-zhl/master)
+ - Run in binder (but you can't save your changes): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmaziuk/diy-zhl/master)
 
  - If your computer can run `docker` containers, download the files here to a directory and run in there:
 
@@ -32,4 +30,4 @@ http://(9aedd0d5f391 or 127.0.0.1):8888/?token=47e7e1e8dcdb15637f15c569520267621
 
 ```
 
-Edit it to `http://127.0.0.1:8888/?token=47e7e1e8dcdb15637f15c56952026762153d51c9b9665c84` (or the other one if you prefer ipv6) and paste tht into your browser's URL bar.
+Oaste that into your browser's URL bar, edit it to `http://127.0.0.1:8888/?token=47e7e1e8dcdb15637f15c56952026762153d51c9b9665c84` (or the other one if you prefer ipv6), and hit "go".
