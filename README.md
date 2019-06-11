@@ -15,7 +15,7 @@ and notebooks to show them off.
 
 ## Running
 
- - Run in binder: [![Binder](https://mybinder.org/badge_logo.svg | height=2em)](https://mybinder.org/v2/gh/dmaziuk/diy-zhl/master)
+ - Run in binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dmaziuk/diy-zhl/master)
 (if it starts, and then you can't save your changes)
 
  - If your computer can run `docker` containers, download the files here to a directory and run in there:
