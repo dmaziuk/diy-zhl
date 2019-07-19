@@ -123,7 +123,7 @@ WORKMAN = {
 #  -- there is no Delta M i.e. Delta M = 1
 # values are in msw
 #
-# Conveert to Buhlmann with
+# Convert to Buhlmann with
 #  m_w2b( M0 = NNN / 10, dM = 1, P = 1 )
 # and run ZHL with DSAT compartments and M-values
 #
