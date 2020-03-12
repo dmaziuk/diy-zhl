@@ -82,6 +82,7 @@ ZHL16N = {
 }
 
 ZHL16He = {
+    1  :  { "t" : 1.51,   "a" : { "B" : 1.7424 }, "b" : 0.4245 },
     1.1 : { "t" : 1.88,   "a" : { "B" : 1.6189 }, "b" : 0.477 },
     2 :   { "t" : 3.02,   "a" : { "B" : 1.383 },  "b" : 0.5747 },
     3 :   { "t" : 4.72,   "a" : { "B" : 1.1919 }, "b" : 0.6527 },
@@ -221,7 +222,7 @@ def m_b2w( a = 1.1696, b = 0.5578, P = 1 ) :
 # no-stop time by Schreiner
 #
 # Palv: initial pressure of inert gas in the lungs (bar, output of palv())
-# t: time (minutes)\n",
+# t: time (minutes)
 # R: rate of pressure change (output of arr()),
 # k: gas decay constant (output of kay()
 #  -- same as schreiner()
