@@ -81,6 +81,10 @@ ZHL16N = {
     16  : { "t" : 635.0, "b" : 0.9653, "a" : { "A" : 0.2327, "B" : 0.2327, "C" : 0.2327 } }
 }
 
+# Note that "B" is a misnomer as some implementations call it "C",
+# some call it "B", and nobody can read German and/or drop a hundred
+# bucks on Tauchmedizin to see what Herr Buhlmann actually said.
+#
 ZHL16He = {
     1  :  { "t" : 1.51,   "a" : { "B" : 1.7424 }, "b" : 0.4245 },
     1.1 : { "t" : 1.88,   "a" : { "B" : 1.6189 }, "b" : 0.477 },
